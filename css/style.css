@@ -1,0 +1,5 @@
+.offer {
+    background: linear-gradient(to right, #f88d0b 0%, #fbd205 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
